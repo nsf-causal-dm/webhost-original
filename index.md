@@ -21,7 +21,7 @@ Please report errors in award information by writing to: awardsearch@nsf.gov.
 
 ## NSF Grant Information
 
-| Award Abstract # 2321786 <br> CISE: Large: Causal Foundations for Decision Making and Learning |   |
+| Award Abstract # 2321786 <br> CISE: Large: Causal Foundations for Decision Making and Learning ||
 |:---|:---|
 | NSF Org: | [CNS](http://www.nsf.gov/div/index.jsp?div=CNS) <br> [Division Of Computer and Network Systems](http://www.nsf.gov/div/index.jsp?div=CNS) |
 | Recipient: | THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK |
