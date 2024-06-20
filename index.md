@@ -12,11 +12,11 @@ summary: Welcome to the website outlining our NSF project in Causal Foundations 
 
 ## Meet The Principal Investigators
 
-[![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/)
-[![Rina Dechter](images/rina_pic.png "Rina Dechter"){: height="100px" width="auto"}](https://ics.uci.edu/~dechter/index.html)
-[![Shlomo Zilberstein](images/shlomo_pic.png "Shlomo Zilberstein"){: height="100px" width="auto"}](https://groups.cs.umass.edu/shlomo/)
-[![Sven Koenig](images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/)
-[![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/)
+[![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/){: target="_blank" rel="noopener"}
+[![Rina Dechter](images/rina_pic.png "Rina Dechter"){: height="100px" width="auto"}](https://ics.uci.edu/~dechter/index.html){: target="_blank" rel="noopener"}
+[![Shlomo Zilberstein](images/shlomo_pic.png "Shlomo Zilberstein"){: height="100px" width="auto"}](https://groups.cs.umass.edu/shlomo/){: target="_blank" rel="noopener"}
+[![Sven Koenig](images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/){: target="_blank" rel="noopener"}
+[![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/){: target="_blank" rel="noopener"}
 
 
 
