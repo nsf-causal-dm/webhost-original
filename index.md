@@ -5,23 +5,20 @@ tags: [homepage]
 sidebar: mydoc_sidebar
 permalink: index.html
 image: /images/causality_pic.jpg
-summary: Welcome to our website outlining the NSF project in Causal Foundations for Decision Making and Learning.  Here we will share various information and resources including the direction of our research, progress being made, and related works.  If you have any ideas for collaboration, we would be happy to hear from you.
+summary: Welcome to the website outlining our NSF project in Causal Foundations for Decision Making and Learning.  Here you can find information and resources including research directions, progress reports, and related works.
 ---
+
+{% include note.html content="Please look for the latest news and updates via the 'News' tab in the top toolbar." %}
 
 ## Meet The Principal Investigators
 
-<!-- <a href="/images/elias_pic.jpg" width='50' height='YYY' alt='Elias Bareinboim'> -->
-<img src="/images/elias_pic.png" alt="Elias Bareinboim" width="100px">
-![Elias Bareinboim]({{ site.baseurl }}/images/elias_pic.png){: height="100px" width="auto"} .
-![Elias Bareinboim](/images/elias_pic.png "Elias Bareinboim"){: width="50%"}
-![Rina Dechter](/images/rina_pic.jpg "Rina Dechter"){: width="50%"}
-![Shlomo Zilberstein](/images/shlomo_pic.jpg "Shlomo Zilberstein"){: width="50%"}
-![Sven Koenig](/images/sven_pic.jpg "Sven Koenig"){: width="50%"}
-![Jin Tian](/images/jin_pic.jpg "Jin Tian"){: width="50%"}
+[![Elias Bareinboim]({{ site.baseurl }}/images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/)
+[![Rina Dechter]({{ site.baseurl }}/images/rina_pic.png "Rina Dechter"){: height="100px" width="auto"}](https://ics.uci.edu/~dechter/index.html)
+[![Shlomo Zilberstein]({{ site.baseurl }}/images/shlomo_pic.png "Shlomo Zilberstein"){: height="100px" width="auto"}](https://groups.cs.umass.edu/shlomo/)
+[![Sven Koenig]({{ site.baseurl }}/images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/)
+[![Jin Tian]({{ site.baseurl }}/images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/)
 
 
-
-{% include note.html content="Please look for the latest news and events via the 'News' tab in the top toolbar." %}
 
 ## Project Abstract
 
