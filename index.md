@@ -1,13 +1,27 @@
 ---
-title: ""
-keywords: sample homepage
-tags: [getting_started]
+title: "Causal Foundations for Decision Making and Learning"
+keywords: homepage
+tags: [homepage]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: Original version can be found at old_index.html.
+image: /images/causality_pic.jpg
+summary: Welcome to our website outlining the NSF project in Causal Foundations for Decision Making and Learning.  Here we will share various information and resources including the direction of our research, progress being made, and related works.  If you have any ideas for collaboration, we would be happy to hear from you.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+## Meet The Principal Investigators
+
+<!-- <a href="/images/elias_pic.jpg" width='50' height='YYY' alt='Elias Bareinboim'> -->
+<img src="/images/elias_pic.png" alt="Elias Bareinboim" width="100px">
+![Elias Bareinboim]({{ site.baseurl }}/images/elias_pic.png){: height="100px" width="auto"} .
+![Elias Bareinboim](/images/elias_pic.png "Elias Bareinboim"){: width="50%"}
+![Rina Dechter](/images/rina_pic.jpg "Rina Dechter"){: width="50%"}
+![Shlomo Zilberstein](/images/shlomo_pic.jpg "Shlomo Zilberstein"){: width="50%"}
+![Sven Koenig](/images/sven_pic.jpg "Sven Koenig"){: width="50%"}
+![Jin Tian](/images/jin_pic.jpg "Jin Tian"){: width="50%"}
+
+
+
+{% include note.html content="Please look for the latest news and events via the 'News' tab in the top toolbar." %}
 
 ## Project Abstract
 
@@ -21,8 +35,8 @@ Please report errors in award information by writing to: awardsearch@nsf.gov.
 
 ## NSF Grant Information
 
-Award Abstract # 2321786
-CISE: Large: Causal Foundations for Decision Making and Learning
+**Award Abstract # 2321786** <br> **CISE: Large: Causal Foundations for Decision Making and Learning**
+
 |:---|:---|
 | NSF Org: | [CNS](http://www.nsf.gov/div/index.jsp?div=CNS) <br> [Division Of Computer and Network Systems](http://www.nsf.gov/div/index.jsp?div=CNS) |
 | Recipient: | THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK |
