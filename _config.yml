@@ -1,6 +1,6 @@
 url: nsf-causal-dm.github.io
-baseurl: /webhost
-# baseurl: ""
+# baseurl: /webhost
+baseurl: ""
 
 repository: nsf-causal-dm/webhost
 

@@ -2,7 +2,7 @@
 title: "Causal Foundations for Decision Making and Learning"
 keywords: homepage
 tags: [homepage]
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: index.html
 image: /images/causality_pic.jpg
 summary: Welcome to the website outlining our NSF project in Causal Foundations for Decision Making and Learning.  Here you can find information and resources including research directions, progress reports, and related works.
