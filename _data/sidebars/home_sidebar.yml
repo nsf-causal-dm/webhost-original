@@ -9,22 +9,22 @@ entries:
     output: web
     folderitems:
     - output: web
-      url: /https://drive.google.com\/drive\/u\/2\/folders\/1hjci-uuvgUqCyOufpIwwb4zgl_aaZoGX
+      url: \/https://drive.google.com\/drive\/u\/2\/folders\/1hjci-uuvgUqCyOufpIwwb4zgl_aaZoGX
       subfolders:
       - title: Google Drive
         output: web
         subfolderitems:
         - title: All-Hands Meetings
-          url: /https://drive.google.com\/drive\/u\/2\/folders\/1kzl1pvKcv4Z1cigjkMo5VsaYN-u5XZ4F
+          url: \/https://drive.google.com\/drive\/u\/2\/folders\/1kzl1pvKcv4Z1cigjkMo5VsaYN-u5XZ4F
           output: web
         - title: Resources
-          url: /https://drive.google.com\/drive\/u\/2\/folders\/1jCRUZHTKZBeK1A77Nkfz7LrJQukh45i9
+          url: \/https://drive.google.com\/drive\/u\/2\/folders\/1jCRUZHTKZBeK1A77Nkfz7LrJQukh45i9
           output: web
       - title: Local Archives
         output: web
         subfolderitems:
         - title: Rina's Group
-          url: /https://drive.google.com\/drive\/u\/2\/folders\/1F97VchSkSGKSfeX0mu5tgxiidL62E4yS
+          url: \/https://drive.google.com\/drive\/u\/2\/folders\/1F97VchSkSGKSfeX0mu5tgxiidL62E4yS
           output: web
 
 
