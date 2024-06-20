@@ -8,9 +8,9 @@ entries:
   - title: Internal
     output: web
     folderitems:
-    - title: Google Drive Root
+    - title: Google Drive Index
       output: web
-      external_url: https://drive.google.com/drive/u/2/folders/1hjci-uuvgUqCyOufpIwwb4zgl_aaZoGX
+      external_url: https://docs.google.com/spreadsheets/d/1lpW5R4CFows7gMdHbhoocsfBPiUFADp7rTnvwM5KuI8/edit?gid=0#gid=0
       subfolders:
       - title: Google Drive Subfolders
         output: web
