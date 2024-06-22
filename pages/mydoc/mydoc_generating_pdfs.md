@@ -306,7 +306,7 @@ You'll see some other items in there such as `prince-script`. This means we're u
 ```js
 <script>
     Prince.addScriptFunc("datestamp", function() {
-        return "PDF last generated: {{ site.time | date: '%B %d, %Y' }}";
+        return "PDF last generated: {{ site.time | date: '%F %T (%Z)' }}";
     });
 </script>
 

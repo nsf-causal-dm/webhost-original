@@ -7,7 +7,7 @@ repository: nsf-causal-dm/webhost
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Causal Foundations of Decision Making and Learning
+topnav_title: Causal Foundations for Decision Making and Learning
 # this appears on the top navigation bar next to the home button
 
 site_title: Information and Resources for NSF's Causal Foundations of Decision Making and Learning

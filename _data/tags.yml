@@ -2,6 +2,11 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
+  - home_page
+  - principal_investigators
+  - co_investigators
+  - project_information
+  - nsf_grant_information
   - getting_started
   - content_types
   - navigation

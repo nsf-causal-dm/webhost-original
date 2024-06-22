@@ -1,26 +1,32 @@
 ---
 title: "Causal Foundations for Decision Making and Learning"
 keywords: homepage
-tags: [homepage]
+tags: [home_page, principal_investigators, co_investigators, project_information, nsf_grant_information]
 sidebar: home_sidebar
 permalink: index.html
 image: /images/causality_pic.jpg
-summary: Welcome to the website outlining our NSF project in Causal Foundations for Decision Making and Learning.  Here you can find information and resources including research directions, progress reports, and related works.
+summary: Welcome to the website for our NSF project in Causal Foundations for Decision Making and Learning.  Here you can find information and resources including research directions, progress reports, and related works.
 ---
 
 {% include note.html content="Please look for the latest news and updates via the 'News' tab in the top toolbar." %}
 
-## Meet The Principal Investigators
+## Meet The Research Team!
 
+### Principal Investigators
 [![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/){: target="_blank" rel="noopener"}
 [![Rina Dechter](images/rina_pic.png "Rina Dechter"){: height="100px" width="auto"}](https://ics.uci.edu/~dechter/index.html){: target="_blank" rel="noopener"}
 [![Shlomo Zilberstein](images/shlomo_pic.png "Shlomo Zilberstein"){: height="100px" width="auto"}](https://groups.cs.umass.edu/shlomo/){: target="_blank" rel="noopener"}
 [![Sven Koenig](images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/){: target="_blank" rel="noopener"}
 [![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/){: target="_blank" rel="noopener"}
 
+### Esteemed Colleagues and Co-Investigators
+[![Judea Pearl](images/judea_pic.png "Judea Pearl"){: height="100px" width="auto"}](https://bayes.cs.ucla.edu/jp_home.html){: target="_blank" rel="noopener"}
+[![Alexander Ihler](images/alex_pic.png "Alexander Ihler"){: height="100px" width="auto"}](https://ics.uci.edu/~ihler/index.html){: target="_blank" rel="noopener"}
+[![Roy Fox](images/roy_pic.png "Roy Fox"){: height="100px" width="auto"}](https://royf.org/){: target="_blank" rel="noopener"}
 
+## Project Information
 
-## Project Abstract
+### Abstract
 
 Artificial intelligence (AI) has become ubiquitous in our daily lives, and the importance of decision-making as a scientific challenge has increased dramatically. Decisions that were once made by humans are increasingly delegated to automated systems or made with their assistance. However, despite substantial recent progress, the current generation of AI technology is lacking in explainability, robustness, and adaptability capabilities, which hinders trust in AI. There is a growing recognition that robust decision-making requires an understanding of the often complex and dynamic causal mechanisms underlying the environment, while most of the current formalisms in AI lack explicit treatment of causal mechanisms. This project brings together the power of causal modeling and AI decision-making and learning to produce AI systems that rely on less data, can better justify and explain their decisions to people, better react to new circumstances, and consequently are safer and more trustworthy. The project produces new foundations - principles, methods, and tools - for causal decision-making systems. It enriches the traditional AI formalisms with causal ingredients for more efficient, robust, generalizable, and explainable decision-making with the potential to fundamentally transform the AI decision-making field. The theory will be evaluated through real-world use-cases in robotics and public health. The researchers will make extensive educational efforts, and develop training content with a focus on mentorship and broadening the participation of underrepresented groups. The team will engage in knowledge transfer activities including authoring an introductory book on causal decision-making and organizing events to discuss AI and decision-making topics.
 
@@ -30,7 +36,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 Please report errors in award information by writing to: awardsearch@nsf.gov.
 
-## NSF Grant Information
+### NSF Grant Information
 
 **Award Abstract # 2321786** <br> **CISE: Large: Causal Foundations for Decision Making and Learning**
 
