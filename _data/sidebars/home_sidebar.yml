@@ -8,13 +8,16 @@ entries:
   - title: Internal
     output: web
     folderitems:
-    - title: Google Drive Index
+    - title: GitHub
       output: web
-      external_url: https://docs.google.com/spreadsheets/d/1lpW5R4CFows7gMdHbhoocsfBPiUFADp7rTnvwM5KuI8/edit?gid=0#gid=0
+      external_url: https://github.com/nsf-causal-dm
       subfolders:
-      - title: Google Drive Subfolders
+      - title: Google Drive
         output: web
         subfolderitems:
+        - title: Main Folder
+          external_url: https://drive.google.com/drive/u/2/folders/1hjci-uuvgUqCyOufpIwwb4zgl_aaZoGX
+          output: web
         - title: All-Hands Meetings
           external_url: https://drive.google.com/drive/u/2/folders/1kzl1pvKcv4Z1cigjkMo5VsaYN-u5XZ4F
           output: web

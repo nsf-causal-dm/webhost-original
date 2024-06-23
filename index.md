@@ -1,16 +1,16 @@
 ---
 title: "Causal Foundations for Decision Making and Learning"
-keywords: homepage
+keywords: homepage, home, page, home page, principal, investigators, principal investigators, co-investigators, project, information, project, information, nsf, grant, nsf grant, information, nsf grant information, grant information
 tags: [home_page, principal_investigators, co_investigators, project_information, nsf_grant_information]
 sidebar: home_sidebar
 permalink: index.html
 image: /images/causality_pic.jpg
-summary: Welcome to the website for our NSF project in Causal Foundations for Decision Making and Learning.  Here you can find information and resources including research directions, progress reports, and related works.
+summary: Welcome to our NSF project website on Causal Foundations for Decision Making and Learning. Here, you can access information and resources such as research directions, progress reports, and related works.
 ---
 
 {% include note.html content="Please look for the latest news and updates via the 'News' tab in the top toolbar." %}
 
-## Meet The Research Team!
+## Meet The Research Team
 
 ### Principal Investigators
 [![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/){: target="_blank" rel="noopener"}
