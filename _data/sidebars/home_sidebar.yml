@@ -15,16 +15,19 @@ entries:
       - title: Google Drive
         output: web
         subfolderitems:
-        - title: Main Folder
+        - title: ★ Main Folder
           external_url: https://drive.google.com/drive/u/2/folders/1hjci-uuvgUqCyOufpIwwb4zgl_aaZoGX
           output: web
-        - title: All-Hands Meetings
+        - title: Index
+          external_url: https://docs.google.com/spreadsheets/d/1lpW5R4CFows7gMdHbhoocsfBPiUFADp7rTnvwM5KuI8/edit?gid=0#gid=0
+          output: web
+        - title: All-Hands Meetings Folder
           external_url: https://drive.google.com/drive/u/2/folders/1kzl1pvKcv4Z1cigjkMo5VsaYN-u5XZ4F
           output: web
-        - title: Resources
+        - title: Resources Folder
           external_url: https://drive.google.com/drive/u/2/folders/1jCRUZHTKZBeK1A77Nkfz7LrJQukh45i9
           output: web
-      - title: Local Archives
+      - title: Local-Groups' Archives
         output: web
         subfolderitems:
         - title: Rina's Group
