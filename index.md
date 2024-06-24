@@ -6,9 +6,9 @@ sidebar: home_sidebar
 permalink: index.html
 image: /images/causality_pic.jpg
 summary: Welcome to our NSF project website on Causal Foundations for Decision Making and Learning. Here, you can access information and resources such as research directions, progress reports, and related works.
+toc: false
 ---
-
-{% include note.html content="Please look for the latest news and updates via the 'News' tab in the top toolbar." %}
+<!-- {% include note.html content="Please look for the latest news and updates via the 'News' tab in the top toolbar." %} -->
 
 ## Meet The Research Team
 
@@ -19,10 +19,13 @@ summary: Welcome to our NSF project website on Causal Foundations for Decision M
 [![Sven Koenig](images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/){: target="_blank" rel="noopener"}
 [![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/){: target="_blank" rel="noopener"}
 
-### Esteemed Colleagues and Co-Investigators
-[![Judea Pearl](images/judea_pic.png "Judea Pearl"){: height="100px" width="auto"}](https://bayes.cs.ucla.edu/jp_home.html){: target="_blank" rel="noopener"}
+### Co-Investigators
+*  [Judea Pearl](https://bayes.cs.ucla.edu/jp_home.html){: target="_blank" rel="noopener"}
+*  [Alexander Ihler](https://ics.uci.edu/~ihler/index.html){: target="_blank" rel="noopener"}
+*  [Roy Fox](https://royf.org/){: target="_blank" rel="noopener"}
+<!-- [![Judea Pearl](images/judea_pic.png "Judea Pearl"){: height="100px" width="auto"}](https://bayes.cs.ucla.edu/jp_home.html){: target="_blank" rel="noopener"}
 [![Alexander Ihler](images/alex_pic.png "Alexander Ihler"){: height="100px" width="auto"}](https://ics.uci.edu/~ihler/index.html){: target="_blank" rel="noopener"}
-[![Roy Fox](images/roy_pic.png "Roy Fox"){: height="100px" width="auto"}](https://royf.org/){: target="_blank" rel="noopener"}
+[![Roy Fox](images/roy_pic.png "Roy Fox"){: height="100px" width="auto"}](https://royf.org/){: target="_blank" rel="noopener"} -->
 
 ## Project Information
 
@@ -42,31 +45,10 @@ Please report errors in award information by writing to: awardsearch@nsf.gov.
 
 |:---|:---|
 | NSF Org: | [CNS](http://www.nsf.gov/div/index.jsp?div=CNS) <br> [Division Of Computer and Network Systems](http://www.nsf.gov/div/index.jsp?div=CNS) |
-| Recipient: | THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK |
-| Initial Amendment Date: | September 15, 2023 |
-| Latest Amendment Date: | November 9, 2023 |
-| Award Number: | 2321786 |
-| Award Instrument: | Continuing Grant |
-| Program Manager: | Hector Munoz-Avila <br> hmunoz@nsf.gov  (703)292-4481 <br> CNS  Division Of Computer and Network Systems <br> CSE  Direct For Computer & Info Scie & Enginr |
-| Start Date: | October 1, 2023 |
-| End Date: | September 30, 2028 (Estimated) |
-| Total Intended Award Amount: | $5,000,000.00 |
-| Total Awarded Amount to Date: | $1,000,000.00 |
-| Funds Obligated to Date: | FY 2023 = $1,000,000.00 |
-| History of Investigator: |  Elias Bareinboim (Principal Investigator) <br> eb@cs.columbia.edu <br> Rina Dechter (Co-Principal Investigator) <br> Shlomo Zilberstein (Co-Principal Investigator) <br> Sven Koenig (Co-Principal Investigator) <br> Jin Tian (Co-Principal Investigator) |
-| Recipient Sponsored Research Office: | Columbia University <br> 615 W 131ST ST <br> NEW YORK <br> NY  US  10027-7922 <br> (212)854-6851 |
-| Sponsor Congressional District: | 13 |
-| Primary Place of Performance: | Columbia University <br> 500 West 120th street <br> New York <br> NY  US  10027 |
-| Primary Place of Performance <br> Congressional District: | 13 |
-| Unique Entity Identifier (UEI): | F4N1QNPB95M4 |
-| Parent UEI: |  |
+| Principal Investigators: |  Elias Bareinboim <br> Rina Dechter <br> Shlomo Zilberstein <br> Sven Koenig <br> Jin Tian |
 | NSF Program(s): | CISE Core: Large Projects |
-| Primary Program Source: | 01002324DB NSF RESEARCH & RELATED ACTIVIT |
-| Program Reference Code(s): | 7925 |
-| Program Element Code(s): | 247Y00 |
-| Award Agency Code: | 4900 |
-| Fund Agency Code: | 4900 |
-| Assistance Listing Number(s): | 47.070 |
+
+For more information, see [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321786&HistoricalAwards=false/){: target="_blank" rel="noopener"}.
 
 
 
