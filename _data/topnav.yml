@@ -14,10 +14,6 @@ topnav_dropdowns:
           external_url: http://idm-lab.org/
         - title: Jin Tian
           external_url: https://faculty.sites.iastate.edu/jtian/
-    - title: Research
-      folderitems:
-        - title: "[Example] Causal Inference from an EM-Learned Causal Model"
-          external_url: https://ics.uci.edu/~dechter/publications/r275.pdf
 
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
@@ -26,6 +22,8 @@ topnav:
   items:
     - title: News
       url: /news
+    - title: Research
+      url: /research
     - title: NSF Award
       external_url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321786&HistoricalAwards=false
     - title: GitHub

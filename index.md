@@ -13,11 +13,17 @@ toc: false
 ## Meet The Research Team
 
 ### Principal Investigators
-[![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/){: target="_blank" rel="noopener"}
+
+
+|:----------------------:|:--:|:--:|:--:|:-----------------------------:| 
+| [![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/){: target="_blank" rel="noopener"} | [![Rina Dechter](images/rina_pic.png "Rina Dechter"){: height="100px" width="auto"}](https://ics.uci.edu/~dechter/index.html){: target="_blank" rel="noopener"} | [![Shlomo Zilberstein](images/shlomo_pic.png "Shlomo Zilberstein"){: height="100px" width="auto"}](https://groups.cs.umass.edu/shlomo/){: target="_blank" rel="noopener"} | [![Sven Koenig](images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/){: target="_blank" rel="noopener"} | [![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/){: target="_blank" rel="noopener"} |
+| *<center>Elias Bareinboim&nbsp;&nbsp;&nbsp;&nbsp;</center>* | *<center>Rina Dechter&nbsp;&nbsp;&nbsp;&nbsp;</center>* | *<center>Shlomo Zilberstein&nbsp;&nbsp;&nbsp;&nbsp;</center>* | *<center>Sven Koenig&nbsp;&nbsp;&nbsp;&nbsp;</center>* | *<center>Jin Tian&nbsp;&nbsp;&nbsp;&nbsp;</center>* |
+
+<!-- [![Elias Bareinboim](images/elias_pic.png "Elias Bareinboim"){: height="100px" width="auto"}](https://causalai.net/){: target="_blank" rel="noopener"}
 [![Rina Dechter](images/rina_pic.png "Rina Dechter"){: height="100px" width="auto"}](https://ics.uci.edu/~dechter/index.html){: target="_blank" rel="noopener"}
 [![Shlomo Zilberstein](images/shlomo_pic.png "Shlomo Zilberstein"){: height="100px" width="auto"}](https://groups.cs.umass.edu/shlomo/){: target="_blank" rel="noopener"}
 [![Sven Koenig](images/sven_pic.png "Sven Koenig"){: height="100px" width="auto"}](http://idm-lab.org/){: target="_blank" rel="noopener"}
-[![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/){: target="_blank" rel="noopener"}
+[![Jin Tian](images/jin_pic.png "Jin Tian"){: height="100px" width="auto"}](https://faculty.sites.iastate.edu/jtian/){: target="_blank" rel="noopener"} -->
 
 ### Co-Investigators
 *  [Judea Pearl](https://bayes.cs.ucla.edu/jp_home.html){: target="_blank" rel="noopener"}
